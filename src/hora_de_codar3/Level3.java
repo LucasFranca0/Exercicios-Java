@@ -84,7 +84,7 @@ public class Level3 {
         }
 
         float media = soma / quantidade;
-        System.out.println("Quantidade de números entre 15 e 100: " + quantidade);
+        System.out.println("Quantidade de números entre " + numero1 + " e " + numero2 + " é: " + quantidade);
         System.out.println("Valor total:" + soma);
         System.out.println("Média aritmética: " + media);
 
